@@ -157,7 +157,7 @@ body {
   top: 15px;
   left: 50%;
   transform: translateX(-55%);
-  width: clamp(1px, 60%, 130px);
+  width: clamp(50px, 60%, 105px);
   height: clamp(27px, 4%, 28px);
   background: linear-gradient(145deg, #1c1c1e, #0b0b0c);
   border-radius: 999px;
